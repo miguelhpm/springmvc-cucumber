@@ -1,0 +1,8 @@
+Una version antigua
+https://zsoltfabok.com/blog/2012/09/cucumber-jvm-web-with-spring-mvc/
+Principios de Cucumber
+https://zsoltfabok.com/blog/2011/12/cucumber-jvm-preparation/
+Cucumber
+https://dannorth.net/introducing-bdd/
+Proyecto ejemplo
+https://github.com/excellentdrums/Cucumber-JVM-Spring-MVC-Test-HTMLUnit-Demo
